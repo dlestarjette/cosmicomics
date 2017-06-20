@@ -1,0 +1,71 @@
+{
+  "scienceMoon": [
+    "The average distance of the \\#Moon from the Earth is 1.28 light-seconds."
+    "The \\#moon was formed by a violent collision between the early Earth and a planetary embryo called \\#Theia ~100 my after the Earth formed.",
+  ],
+
+  "scienceGalaxies": [
+    "The \\#Laniakea \\#Supercluster is the galaxy supercluster that is home to the \\#MilkyWay and approximately 100,000 other nearby galaxies.",
+    "The diameter of the observable \\#universe is about 93 billion light-years.",
+    "What is the size of the whole \\#universe?",
+    "\\#BigBang theory seems to predict larger measurable anisotropies of the night sky than those observed.",
+    "\\#DarkFlow is an \\#astrophysical term describing a possible non-random component of the peculiar velocity of \\#galaxy clusters."
+  ],
+
+  "scienceEarth": [
+    "The outer rigid layer of the earth is divided into plates that move around across the earth's surface like slabs of ice on a lake.",
+    "A recent modification of the \\#NiceModel has the \\#SolarSystem begin with five giant planets, including an additional \\#IceGiant.",
+    "The central theme of \\#hydrology is that \\#water circulates throughout the Earth through different pathways and at different rates."
+  ],
+
+  "scienceEvolution": [
+    "A \\#LightCone represents any possible future \\#evolution of an object given its current state.",
+    "A \\#LightCone represents every possible location of an object given its current location.",
+    "Why does \\#time have a direction?",
+    "How can \\#time be reconciled with \\#GeneralRelativity?",
+    "How did the conditions for anything to exist arise?",
+    "There is no \\#time; what is \\#memory?",
+  ],
+
+  "sciencePhysics": [
+    "In \\#physics, string theory is a theoretical framework in which particles of are replaced by one-dimensional objects called strings.",
+    "\\#DarkMatter is a hypothetical type of matter distinct from baryonic (ordinary), neutrinos, and \\#DarkEnergy.",
+    "The existence of \\#DarkMatter would explain a number of otherwise puzzling \\#astronomical observations.",
+    "Enormously powerful \\#gravitational fields warp the local fabric of \\#space and \\time.",
+    "Incomparably strong magnetic fields can stretch \\#atoms into long spindles.",
+    "\\CompactObjects are known to possess some of the most extreme physical properties ever observed."
+    "A \\#deSitter \\#universe is a \\#cosmological solution to the Einstein field equations of \\#GeneralRelativity.",
+    "\\#PhantomEnergy is a hypothetical form of \\#DarkEnergy satisfying the equation of state with w < -1.",
+    "The Cosmic Microwave Background (CMB) presents a direct large-scale view of the \\#universe.",
+    "In \\#cosmology, the \\#CosmologicalConstant problem or vacuum catastrophe is the disagreement in measured values of the cosmological constant.",
+    "\\#Cosmololy tells us that about 26 percent of the mass of the \\#universe is \\#DarkMatter.",
+    "Nearly all \\#inflation models predict that the total (matter+energy) density of the \\#universe should be very close to the critical density.",
+    "What is the three-manifold of comoving \\#space?",
+    "Why does the predicted mass of the \\#quantum vacuum have little effect on the expansion of the \\#universe?",
+    "\\#QuantumGravity is a field of theoretical \\#physics that seeks to describe \\#gravity according to the principles of quantum mechanics.",
+    "\\#Spacetime is a dynamical field, and is therefore a \\#quantum object.",
+    "A \\#BlackHole is a region of \\#spacetime exhibiting such strong gravitational effects that nothing whatsoever can escape from inside it.",
+    "Having formulated the relativistic, \\#geometric version of the effects of \\#gravity, the question of gravity's source remains.",
+    "\\#GeneralRelativity is a metric theory of \\#gravitation.",
+    "Nothing, not even \\#light, can escape from inside the \\#EventHorizon of a #BlackHole.",
+    "The defining feature of a \\BlackHole is the appearance of an \\#EventHorizon.",
+    "Rotating \\#BlackHoles are surrounded by a region of \\#spacetime in which it is impossible to stand still, called the \\#ergosphere."
+    "Calculations suggest that physical \\#information could permanently disappear in a #BlackHole.",
+    "\\#Hawking radiation is blackbody \\#radiation that is predicted to be released by \\#BlackHoles, due to \\#quantum effects near the \\#EventHorizon.",
+    "#Hawking #radiation reduces the mass and energy of #BlackHoles, and is therefore also known as black hole evaporation.",
+    "In \\#physics, extra dimensions are proposed additional \\#space or \\#time dimensions beyond the (3 + 1) typical of observed \\#spacetime.",
+    "if \\#singularities can be observed from the rest of \\#spacetime, \\#causality may break down, and \\#physics may lose its predictive power.",
+    "\\#GeneralRelativity is \\#deterministic.",
+    "In \\#physics, the principle of \\#locality states that an object is only directly influenced by its immediate surroundings.",
+    "In the \\#StandardModel, the \\#Higgs mechanism is essential to explain the generation mechanism of the property mass for gauge \\#bosons.",
+    "There is no scientific consensus on why the \\#WeakForce is 1,024 times as strong as \\#gravity.",
+    "Why is he \\#Higgs \\#boson is so much lighter than the \\#PlanckMass?",
+    "A \\#Planck particle is a hypothetical particle defined as a tiny \\#BlackHole whose \\#Compton wavelength is equal to its \\#Schwarzschild radius.",
+    "\\#Magnetism in bar magnets and electromagnets does not arise from magnetic \\#monopoles.",
+    "One of the defining advances in \\#QuantumTheory was Paul \\#Dirac's work on developing a relativistic quantum \\#electromagnetism.",
+    "The \\#proton spin crisis is a theoretical crisis precipitated by an experiment in 1987.",
+    "\\#Supersymmetry is a proposed type of \\#spacetime symmetry that relates two basic classes of elementary particles: \\#bosons and \\#fermions.",
+    "What is the mass of \\#neutrinos?",
+    "For a nonzero choice of the θ angle and the chiral \\#quark mass phase θ′ one expects the CP-symmetry to be violated.",
+  ]
+}
